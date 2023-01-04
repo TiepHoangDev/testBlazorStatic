@@ -1,0 +1,2 @@
+# testBlazorStatic
+ testBlazorStatic
